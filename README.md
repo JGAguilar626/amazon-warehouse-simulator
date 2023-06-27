@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/JGAguilar626/amazon-warehouse-simulator/assets/129235347/698974b0-ae2f-4971-a983-eea25fc3750b" width="640" height="400"></div>
+
 # <div align="center">amazon-warehouse-simulator</div>
 This project creates a virtual Amazon Fulfillment Center and simulates the Simple Bin Count (SBC) inventory management process.
 
