@@ -1,4 +1,4 @@
-# amazon-warehouse-simulator
+# <div align="center">amazon-warehouse-simulator</div>
 This project creates a virtual Amazon Fulfillment Center and simulates the Simple Bin Count (SBC) inventory management process.
 
 IMPORTANT: This is the same project as JGAguilar/simple-bin-count-simulator. I created this additional repository with the intention of having a clean project repo, while using the JGAguilar/simple-bin-count-simulator repo to learn and experiment with Git/GitHub.
